@@ -1740,21 +1740,22 @@ elif page == "About Project":
 # FOOTER
 # ==================================================
 
-st.markdown("---")
 
-st.markdown(
-    """
-    <div style="
-        text-align:center;
-        color:#86a997;
-        font-size:12px;
-        padding:10px;
-    ">
+# GLOBAL FOOTER
 
-        SMARTPARK AI · AI + RAG + MULTI-AGENT PARKING ASSISTANT
-        <br>
+st.markdown("""
+<div style="
+    background: rgba(30, 35, 40, 0.7);
+    padding: 22px;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 30px;
+">
+    <p style="font-weight: bold; margin-bottom: 8px;">
+        SMARTPARK AI • AI + RAG + MULTI-AGENT PARKING ASSISTANT
+    </p>
+    <p style="margin: 0; color: #b0b0b0;">
         Intelligent Parking Compliance Demonstration
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+    </p>
+</div>
+""", unsafe_allow_html=True)
