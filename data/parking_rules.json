@@ -1,0 +1,131 @@
+[
+  {
+    "rule_id": "R001",
+    "title": "No-Parking Zone",
+    "keywords": [
+      "no parking",
+      "no-parking",
+      "restricted parking"
+    ],
+    "severity": "High",
+    "description": "Parking in a designated no-parking area may constitute a parking violation.",
+    "resolution": [
+      "Review the violation details.",
+      "Move the vehicle if it is still present.",
+      "Check the applicable local parking procedure.",
+      "Review the applicable dispute process if you believe the violation is incorrect."
+    ]
+  },
+  {
+    "rule_id": "R002",
+    "title": "Emergency Access Obstruction",
+    "keywords": [
+      "emergency",
+      "fire lane",
+      "fire exit",
+      "emergency access"
+    ],
+    "severity": "High",
+    "description": "Vehicles should not obstruct designated emergency access areas.",
+    "resolution": [
+      "Review the violation details.",
+      "Move the vehicle if possible.",
+      "Check the applicable enforcement procedure.",
+      "Review the applicable dispute process if necessary."
+    ]
+  },
+  {
+    "rule_id": "R003",
+    "title": "Accessible Parking Violation",
+    "keywords": [
+      "disabled parking",
+      "accessible parking",
+      "handicap parking"
+    ],
+    "severity": "High",
+    "description": "Designated accessible parking spaces are reserved for eligible users according to applicable rules.",
+    "resolution": [
+      "Review the violation notice.",
+      "Check the applicable parking requirements.",
+      "Correct the parking situation if applicable.",
+      "Review the official dispute procedure if necessary."
+    ]
+  },
+  {
+    "rule_id": "R004",
+    "title": "Parking Time Limit Violation",
+    "keywords": [
+      "expired",
+      "time limit",
+      "too long",
+      "exceeded time"
+    ],
+    "severity": "Medium",
+    "description": "Parking may be restricted by a specified time limit in designated areas.",
+    "resolution": [
+      "Check the posted parking time limit.",
+      "Review the violation details.",
+      "Check the applicable local procedure.",
+      "Review dispute options if appropriate."
+    ]
+  }
+  ,
+  {
+      "rule_id": "R005",
+      "title": "Wrong Direction Parking",
+      "keywords": [
+          "wrong direction",
+          "opposite direction",
+          "against traffic"
+      ],
+      "severity": "Medium",
+      "description": "Parking may be restricted when a vehicle is parked against the permitted direction of traffic.",
+      "resolution": [
+          "Check the road parking signs.",
+          "Verify the permitted parking direction.",
+          "Correct the parking position if necessary.",
+          "Review the applicable local procedure."
+      ]
+  },
+  {
+  "rule_id": "R006",
+  "title": "Double Parking",
+  "keywords": [
+    "double parking",
+    "parked beside another car",
+    "blocking another vehicle",
+    "blocked another car",
+    "preventing another car from leaving",
+    "vehicle cannot move",
+    "car trapped by another vehicle"
+  ],
+  "severity": "Medium",
+  "description": "Double parking occurs when a vehicle is parked alongside another parked vehicle, obstructing it or preventing its driver from moving or leaving.",
+  "resolution": [
+    "Check whether the vehicle is obstructing another vehicle.",
+    "Move the vehicle if possible.",
+    "Review the applicable parking regulations.",
+    "Check the official dispute procedure if necessary."
+  ]
+},
+  {
+    "rule_id": "R007",
+    "title": "Blocked Driveway",
+    "keywords": [
+      "blocked driveway",
+      "blocking driveway",
+      "blocking entrance",
+      "garage entrance",
+      "vehicle entrance",
+      "obstructing driveway access"
+    ],
+    "severity": "Medium",
+    "description": "A driveway violation occurs when a vehicle is parked across or in front of a driveway, garage entrance, or vehicle access point, preventing entry or exit.",
+    "resolution": [
+      "Check whether the driveway is obstructed.",
+      "Move the vehicle if possible.",
+      "Review local parking restrictions.",
+      "Check the applicable dispute procedure if necessary."
+    ]
+}
+]
